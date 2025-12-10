@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="Google.com" />
+
 <Content type="html"><![CDATA[
 
 
@@ -9,7 +9,6 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <title>Jetpack Joyride</title>
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/jride@475e65ec2f642cf50bb80f09f4f4188cf8c26faa/css/styles.css">
     <meta name="viewport" content="user-scalable=no"/>
